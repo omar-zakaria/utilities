@@ -1,2 +1,2 @@
-# utilities
-A collection of coding utilities or samples
+# Utilities
+A collection of personal coding utilities or samples
